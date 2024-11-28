@@ -1,1 +1,1 @@
-https://github.com/Elatovdjidjf/Software_Engineering/pulls
+https://github.com/Elatovdjidjf/Software_Engineering/pulls?q=is%3Apr+is%3Aclosed
